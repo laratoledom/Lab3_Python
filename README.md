@@ -13,13 +13,13 @@ Para ajudar na criação do programa, o seu chefe criou duas tabelas que indicam
 Por exemplo, para um cliente do sexo feminino com peso 65Kg e altura 1,70m deve ser recomendado o modelo BW-03. Da mesma forma, para um cliente do sexo masculino com peso 80Kg e altura 1,65m deve ser recomendado o modelo LX-40.
 A entrada do seu programa será composta por três linhas. A primeira linha conterá um caractere M, caso o cliente seja do sexo masculino, ou um caractere F, caso o cliente seja do sexo feminino. As próximas duas linhas terão um número inteiro em cada, indicando o peso (em Kg) e a altura (em cm) do cliente, respectivamente.
 
-<Sexo>
-<Peso>
-<Altura>
+- Sexo <br>
+- Peso<br>
+- Altura
 
 A saída deverá imprimir uma única linha com o nome do modelo recomendado:
 
-<Modelo Recomendado>                                                    "
+- Modelo Recomendado  "                                                  
 
 **Observações:**
 O arquivo foi executado através do PyCharm e no arquivo "testes" podem ser encontrados alguns exemplos de testes que verificam o código.
